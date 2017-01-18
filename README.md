@@ -8,7 +8,7 @@ Simple recipes for a simple man.
 * 3 tablespoons salt
 * 2 cloves garlic, smashed
 * 2 tablespoons olive oil
-* porkchops, ya dingus
+* 2 porkchops
 
 Put a cast iron skillet in the oven and preheat to 400 degrees.
 
@@ -18,9 +18,9 @@ Place porkchops in a pan and cover with the brine, and add garlic. Let porkchops
 
 Remove chops from fridge and pat dry. Coat with oil, and season to taste.
 
-Remove cast iron from oven and place on a medium-high stove burner. Sear chops for 2-3 minutes per side.
+Remove cast iron skillet from oven, and place on a medium-high stove burner. Sear chops for 2-3 minutes per side.
 
-Put cast iron and chops back in oven for 6 to 10 minutes, or until the porkchops reach 145 degrees.
+Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the porkchops reach 145 degrees.
 
 ## Bread
 
