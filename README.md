@@ -7,7 +7,7 @@ Simple recipes for a simple man.
 * 3 cups water
 * 3 tablespoons salt
 * 2 cloves garlic, smashed
-* 2T olive oil
+* 2 tablespoons olive oil
 * porkchops, ya dingus
 
 Put a cast iron skillet in the oven and preheat to 400 degrees.
@@ -26,10 +26,10 @@ Put cast iron and chops back in oven for 6 to 10 minutes, or until the porkchops
 
 ### Hard apple cider bread
 * 2 1/2 cups whole wheat flour, sifted
-* 3t baking powder
-* 1t salt
-* 2T butter, melted
-* 2T honey or maple syrup
+* 3 teaspoons baking powder
+* 1 teaspoons salt
+* 2 tablespoons butter, melted
+* 2 tablespoons honey or maple syrup
 * 12oz hard apple cider
 
 Combine dry ingredients. Add butter, syrup and cider and mix well. Bake at 375 for 45 to 60 minutes.
