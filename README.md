@@ -32,4 +32,4 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 * 2 tablespoons honey or maple syrup
 * 12oz hard apple cider *(I like [Spire Mountain Dark & Dry](http://www.spiremountaincider.com/darkdry))*
 
-Combine dry ingredients. Add butter, syrup and cider and mix well. Bake at 375 for 45 to 60 minutes.
+Combine dry ingredients. Add butter, syrup and cider, and mix well. Bake at 375 for 45 to 60 minutes.
