@@ -14,7 +14,7 @@ Put a cast iron skillet in the oven and preheat to 400 degrees.
 
 Boil 1 cup of water and dissolve three tablespoons salt. Remove from stove and add 2 cups of cold water.
 
-Place porkchops in a pan and cover with the brine, and add garlic. Let porkchops refrigerate for 30 minutes.
+Place porkchops in a pan, cover with the brine, and add garlic. Let porkchops refrigerate for 30 minutes.
 
 Remove chops from fridge and pat dry. Coat with oil, and season to taste.
 
