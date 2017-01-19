@@ -27,7 +27,7 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 ### Hard apple cider bread
 * 2 1/2 cups whole wheat flour, sifted
 * 3 teaspoons baking powder *(omit if using self-rising flour)*
-* 1 teaspoons salt *(omit if using self-rising flour)*
+* 1 teaspoon salt *(omit if using self-rising flour)*
 * 2 tablespoons butter, melted
 * 2 tablespoons honey or maple syrup
 * 12oz hard apple cider *(I like [Spire Mountain Dark & Dry](http://www.spiremountaincider.com/darkdry))*
