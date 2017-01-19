@@ -33,3 +33,13 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 * 12oz hard apple cider *(I like [Spire Mountain Dark & Dry](http://www.spiremountaincider.com/darkdry))*
 
 Combine dry ingredients. Add butter, syrup and cider, and mix well. Bake at 375 for 45 to 60 minutes, or until you can insert a toothpick in the bread and it comes out clean.
+
+## Pastas
+
+### Easy cheesey beef
+* 12oz package Velveeta shells and cheese
+* 15oz can ranch beans *(or any seasoned pinto beans)*
+* 10oz can Rotel diced tomatoes and green chilies
+* 1/2lb ground beef
+
+Cook shells according to instructions. Meanwhile, cook ground beef and season to taste. Add Rotel and beans to beef. Combine shells and cheese, and beef mixture and eat.
