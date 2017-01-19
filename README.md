@@ -26,7 +26,7 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 
 ### Hard apple cider bread
 * 2 1/2 cups whole wheat flour, sifted
-* 3 teaspoons baking powder *(omit if using self-rising flour)*
+* 1 tablespoon baking powder *(omit if using self-rising flour)*
 * 1 teaspoon salt *(omit if using self-rising flour)*
 * 2 tablespoons butter, melted
 * 2 tablespoons honey or maple syrup
@@ -34,7 +34,7 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 
 Combine dry ingredients. Add butter, syrup and cider, and mix well. Bake at 375 for 45 to 60 minutes, or until you can insert a toothpick in the bread and it comes out clean.
 
-## Pastas
+## Pasta
 
 ### Easy cheesey beef
 * 12oz package Velveeta shells and cheese
