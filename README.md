@@ -34,6 +34,22 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 
 Combine dry ingredients. Add butter, syrup and cider, and mix well. Bake at 375 for 45 to 60 minutes, or until you can insert a toothpick in the bread and it comes out clean.
 
+### Cast-iron Cornbread
+* 1C all purpose flour
+* 1C cornmeal
+* 1T baking powder
+* 1t salt
+* 2 eggs
+* 1C milk + 1T lemon juice
+* 1/4C maple syrup
+* 4T butter (1/2 stick), melted
+
+Coat cast-iron skillet with butter to prevent sticking.
+
+Combine dry ingredients. Add lemon juice to milk, and let sit for 5 minutes.
+In a separate bowl, whisk eggs, maple syrup, butter, and milk mixture.
+Combine all ingredients, mix, and bake at 425 for 20-25 minutes.
+
 ## Pasta
 
 ### Easy cheesey beef
