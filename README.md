@@ -66,8 +66,25 @@ Cook shells according to instructions. Meanwhile, cook ground beef and season to
 * 28oz can whole San Marzano tomatoes
 * 5T butter
 * 1 onion *(cut in half)*
-* salt to taste
+* salt to taste *(1/2t is a good start)*
 
 Dump entire can of tomatoes, onion, and butter into a pot. Simmer for 45 minutes, smashing 
 tomatoes occasionally.
 
+## Desserts
+
+### Sweet potato pie (filling)
+* 4 large eggs
+* 1 1/3C half-and-half
+* 1C mashed butternut squash
+* 1C mashed sweet potato
+* 1/2C maple syrup
+* 1T all purpose flour
+* 1/2t salt
+* 1t cinnamon
+* 1/2t ginger
+* 1/4t nutmeg
+
+Peel and boil squash and potato until tender (about 15 minutes).
+Combine dry ingredients into mash, and add remaining ingredients, mixing well.
+Bake at 375 for 45--60 minutes.
