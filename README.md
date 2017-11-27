@@ -22,6 +22,17 @@ Remove cast iron skillet from oven, and place on a medium-high stove burner. Sea
 
 Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the porkchops reach 145 degrees.
 
+## Vegetables
+
+### Creamed corn
+* 2x15oz cans corn
+* 8oz cream cheese
+* 4T butter
+* 4oz green chilies
+
+Soften cream cheese and butter in microwave. Drain corn and put in oven-safe dish.
+Mix cream cheese, butter, corn, and chilies. Bake at 350 until warm.
+
 ## Bread
 
 ### Hard apple cider bread
