@@ -34,7 +34,7 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 
 Combine dry ingredients. Add butter, syrup and cider, and mix well. Bake at 375 for 45 to 60 minutes, or until you can insert a toothpick in the bread and it comes out clean.
 
-### Cast-iron Cornbread
+### Cast-iron cornbread
 * 1C all purpose flour
 * 1C cornmeal
 * 1T baking powder
@@ -59,3 +59,15 @@ Combine all ingredients, mix, and bake at 425 for 20-25 minutes.
 * 1/2lb ground beef
 
 Cook shells according to instructions. Meanwhile, cook ground beef and season to taste. Add Rotel and beans to beef. Combine shells and cheese, and beef mixture and eat.
+
+## Sauces
+
+### Simple tomato sauce
+* 28oz can whole San Marzano tomatoes
+* 5T butter
+* 1 onion *(cut in half)*
+* salt to taste
+
+Dump entire can of tomatoes, onion, and butter into a pot. Simmer for 45 minutes, smashing 
+tomatoes occasionally.
+
