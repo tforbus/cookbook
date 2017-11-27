@@ -75,9 +75,9 @@ tomatoes occasionally.
 
 ### Sweet potato pie (filling)
 * 4 large eggs
+* 1C butternut squash, mashed
+* 1C sweet potato, mashed
 * 1 1/3C half-and-half
-* 1C mashed butternut squash
-* 1C mashed sweet potato
 * 1/2C maple syrup
 * 1T all purpose flour
 * 1/2t salt
