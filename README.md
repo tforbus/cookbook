@@ -87,4 +87,4 @@ tomatoes occasionally.
 
 Peel and boil squash and potato until tender (about 15 minutes).
 Combine dry ingredients into mash, and add remaining ingredients, mixing well.
-Bake at 375 for 45--60 minutes.
+Bake at 375 for 45-60 minutes.
