@@ -63,6 +63,17 @@ Combine all ingredients, mix, and bake at 425 for 20-25 minutes.
 
 ## Pasta
 
+### Spaghetti with oil, garlic, and pepper
+* 115g spaghetti
+* 3T olive oil
+* 2 cloves garlic, minced
+* 1/2t red pepper flakes
+* salt, to taste
+* parsely, to taste
+
+Boil spaghetti in salted water until al dente.
+Meanwhile, heat oil and add garlic and pepper. Cook for just a couple of minutes (don't burn the garlic). When the spaghetti is done, mix with oil.
+
 ### Easy cheesey beef
 * 12oz package Velveeta shells and cheese
 * 15oz can ranch beans *(or any seasoned pinto beans)*
