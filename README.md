@@ -24,6 +24,15 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 
 ## Vegetables
 
+## Pinto beans
+* 1C dry pinto beans
+* 1/2 onion (not chopped)
+* 3 strips raw bacon, coarsely chopped
+* 1/4t cayenne pepper
+* salt and pepper to taste
+
+Soak beans overnight. Rinse them off and set aside. Bring a pot of water to a boil. There should be enough water in the pot to cover the beans by about an inch. Add beans, onion, bacon, and cayenne to pot. Once the water is boiling, reduce heat to medium-low and let the beans simmer for an hour or two. Beans are better the next day.
+
 ### Creamed corn
 * 2x15oz cans corn
 * 8oz cream cheese
@@ -72,7 +81,7 @@ Combine all ingredients, mix, and bake at 425 for 20-25 minutes.
 * parsely, to taste
 
 Boil spaghetti in salted water until al dente.
-Meanwhile, heat oil and add garlic and pepper. Cook for just a couple of minutes (don't burn the garlic). When the spaghetti is done, mix with oil.
+Meanwhile, heat oil and add garlic and pepper. Cook for just a couple of minutes (don't burn the garlic). When the spaghetti is done, mix with oil, add parsely to taste.
 
 ### Easy cheesey beef
 * 12oz package Velveeta shells and cheese
@@ -81,6 +90,26 @@ Meanwhile, heat oil and add garlic and pepper. Cook for just a couple of minutes
 * 1/2lb ground beef
 
 Cook shells according to instructions. Meanwhile, cook ground beef and season to taste. Add Rotel and beans to beef. Combine shells and cheese, and beef mixture and eat.
+
+## Soups
+
+### Potato soup
+* 2C cubed potatoes (about 5 medium potatoes)
+* 1 onion, chopped
+* 2 cloves garlic, minced
+* 8 strips bacon, cooked
+* 6T butter
+* 1/4C flour
+* 1 1/2C half-and-half
+* 1/4C cheddar cheese, shredded
+* salt and pepper to taste
+
+Melt 3 tablespoons of butter over medium heat. Add onion, and cook until translucent. Add bacon and garlic, and cook for another minute. Dump in potatoes, stirring to get them coated. Cover with water and bring to a boil. Once boiling, put lid on pot and simmer for about 20 minutes, or until potatoes are tender. 
+
+In a separate pot, melt 3T of butter and mix in flour. Add half-and-half and whisk until combined. Add cheese.
+
+Once potatoes are done, add flour mixture and stir well. Add salt and pepper to taste.
+
 
 ## Sauces
 
