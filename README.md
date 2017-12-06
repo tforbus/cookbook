@@ -1,5 +1,10 @@
 # Cookbook
-Simple recipes for a simple man.
+The purpose of this cookbook is to establish a set of recipes that:
+1) taste good
+2) require little effort
+3) use common ingredients
+4) use few ingredients
+5) are presented without unnecessary banter
 
 ## Meat
 
@@ -94,7 +99,7 @@ Cook shells according to instructions. Meanwhile, cook ground beef and season to
 ## Soups
 
 ### Potato soup
-* 2C cubed potatoes (about 5 medium potatoes)
+* 2C cubed potatoes *(about 5 medium potatoes)*
 * 1 onion, chopped
 * 2 cloves garlic, minced
 * 8 strips bacon, cooked
@@ -104,7 +109,7 @@ Cook shells according to instructions. Meanwhile, cook ground beef and season to
 * 1/4C cheddar cheese, shredded
 * salt and pepper to taste
 
-Melt 3 tablespoons of butter over medium heat. Add onion, and cook until translucent. Add bacon and garlic, and cook for another minute. Dump in potatoes, stirring to get them coated. Cover with water and bring to a boil. Once boiling, put lid on pot and simmer for about 20 minutes, or until potatoes are tender. 
+Melt 3 tablespoons of butter over medium heat. Add onion, and cook until translucent. Add bacon and garlic, and cook for another minute. Dump in potatoes, stirring to get them coated. Cover with water and bring to a boil. Once boiling, put lid on pot and simmer for about 20 minutes, or until potatoes are tender.
 
 In a separate pot, melt 3T of butter and mix in flour. Add half-and-half and whisk until combined. Add cheese.
 
@@ -121,6 +126,18 @@ Once potatoes are done, add flour mixture and stir well. Add salt and pepper to 
 
 Dump entire can of tomatoes, onion, and butter into a pot. Simmer for 45 minutes, smashing 
 tomatoes occasionally.
+
+### Less simple tomato sauce
+* 28oz can whole San Marzano tomatoes
+* 5T butter
+* 1 onion, chopped
+* 3T olive oil
+* 2 cloves garlic, minced
+* 1 pinch red pepper flakes
+* 1/2C water
+* 1C grated parmigiano-regigiano cheese
+
+Heat oil in sauce pan over medium-high heat and add onion. Cook until onion is translucent. Add garlic and cook for another minute. Add tomatoes, chili flakes, and water and bring to a simmer. Simmer for 45-60 minutes, smashing tomatoes as you go. When sauce is nearly done, add butter, cheese and basil. Mix well and serve with pasta.
 
 ## Desserts
 
