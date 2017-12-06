@@ -29,7 +29,7 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 
 ## Vegetables
 
-## Pinto beans
+### Pinto beans
 * 1C dry pinto beans
 * 1/2 onion (not chopped)
 * 3 strips raw bacon, coarsely chopped
@@ -135,7 +135,7 @@ tomatoes occasionally.
 * 2 cloves garlic, minced
 * 1 pinch red pepper flakes
 * 1/2C water
-* 1C grated parmigiano-regigiano cheese
+* 1C grated parmigiano-reggiano cheese
 
 Heat oil in sauce pan over medium-high heat and add onion. Cook until onion is translucent. Add garlic and cook for another minute. Add tomatoes, chili flakes, and water and bring to a simmer. Simmer for 45-60 minutes, smashing tomatoes as you go. When sauce is nearly done, add butter, cheese and basil. Mix well and serve with pasta.
 
