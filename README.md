@@ -139,6 +139,19 @@ tomatoes occasionally.
 
 Heat oil in sauce pan over medium-high heat and add onion. Cook until onion is translucent. Add garlic and cook for another minute. Add tomatoes, chili flakes, and water and bring to a simmer. Simmer for 45-60 minutes, smashing tomatoes as you go. When sauce is nearly done, add butter, cheese and basil. Mix well and serve with pasta.
 
+### Cheese sauce
+* 2T butter
+* 2T flour
+* 1C milk
+* 1C shredded cheddar cheese
+* 1 clove garlic, minced
+* salt and pepper to taste
+
+In a pan, melt butter over medium heat. Add flour and stir.
+
+Add milk and garlic. Once milk is near boiling, add cheese and mix well.
+Add salt and pepper to taste.
+
 ## Desserts
 
 ### Sweet potato pie (filling)
