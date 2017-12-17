@@ -31,12 +31,20 @@ Put cast iron skillet and chops back in oven for 6 to 10 minutes, or until the p
 
 ### Pinto beans
 * 1C dry pinto beans
-* 1/2 onion (not chopped)
-* 3 strips raw bacon, coarsely chopped
-* 1/4t cayenne pepper
-* salt and pepper to taste
+* 1/2 onion, finely chopped
+* 1/2lb ground beef
+* 1T oil
+* 1/2t cayenne pepper
+* 1t chili powder
+* 1t salt
 
-Soak beans overnight. Rinse them off and set aside. Bring a pot of water to a boil. There should be enough water in the pot to cover the beans by about an inch. Add beans, onion, bacon, and cayenne to pot. Once the water is boiling, reduce heat to medium-low and let the beans simmer for an hour or two. Beans are better the next day.
+Soak beans overnight. Rinse them off and set aside.
+
+Heat oil over medium-high temperature in pot. Add onion, and cook until onions are 
+translucent. Add ground beef and salt, and cook until beef is done.
+
+Add beans, cayenne pepper and chili powder, and cover with water.
+Bring water to boil. Reduce heat to simmer, cover, and cook for about one hour.
 
 ### Creamed corn
 * 2x15oz cans corn
