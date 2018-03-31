@@ -160,6 +160,18 @@ In a pan, melt butter over medium heat. Add flour and stir.
 Add milk and garlic. Once milk is near boiling, add cheese and mix well.
 Add salt and pepper to taste.
 
+## Breakfast
+
+### German pancakes
+* 3 large, room-temperature eggs
+* 2/3C room-temperature milk
+* 1/2C self-rising flour
+* 4T butter
+* 1/4t vanilla (optional)
+* 1/4t salt
+
+Preheat oven to 425, and put a cast-iron skillet on high heat. Crack your eggs. Blend eggs, milk, flour, vanilla and salt until smooth. When cast-iron is thoroughly heated, add butter and melt it. Pour in the batter and transfer to oven. Bake for 20-25 minutes.
+
 ## Desserts
 
 ### Sweet potato pie (filling)
