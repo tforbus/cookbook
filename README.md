@@ -83,6 +83,24 @@ Combine dry ingredients. Add lemon juice to milk, and let sit for 5 minutes.
 In a separate bowl, whisk eggs, maple syrup, butter, and milk mixture.
 Combine all ingredients, mix, and bake at 425 for 20-25 minutes.
 
+### Banana bread
+* 2 cups whole wheat flour, sifted
+* 1 teaspoon baking powder
+* 1/2 teaspoon salt
+* 1 teaspoon vanilla extract
+* 1/2 cup brown sugar
+* 1/4 cup maple syrup
+* 1/3 cup heavy whipping cream
+* 1 stick (1/2 cup) butter, melted
+* 2 eggs
+* 2 ripe bananas, mashed
+
+Preheat oven to 350, coat your bread pan in butter or oil so the batter doesn't stick.
+
+Mix sugar, syrup, eggs and butter together. Add in bananas, vanilla and cream, and mix well.
+In a separate bowl, combine flour, baking powder and salt. Add wet ingredients and mix well.
+Bake at 350 for 75 minutes, or until done.
+
 ## Pasta
 
 ### Spaghetti with oil, garlic, and pepper
